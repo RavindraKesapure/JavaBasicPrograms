@@ -1,5 +1,10 @@
 package com.ravi.basicPrograms;
 
+/**
+ * This example explains how to create multidimentional array and sum it
+ * multidimensional arrays
+ */
+
 import java.util.*;
 public class AddMatrices {
 
